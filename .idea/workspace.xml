@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="85d87a8b-1012-484a-a1eb-cbf1b17c83d7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(tabs)/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(tabs)/_layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(tabs)/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(tabs)/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/tabIcon.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/TabIcon.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/useApiFetcher.ts" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/useApiFetcher.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/api.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/services/api.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +45,8 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;D:\\mobile app\\react-native-movie-app\\node_modules\\prettier&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;D:\\mobile app\\react-native-movie-app\\node_modules\\typescript\\lib&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\Senda Japan Ltd\\mobile app\\react-native-movie-app\\node_modules\\typescript\\lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -50,6 +55,7 @@
       <map>
         <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
         <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
       </map>
     </option>
   </component>
@@ -74,7 +80,11 @@
       <option name="presentableId" value="Default" />
       <updated>1763199420462</updated>
       <workItem from="1763199421599" duration="12905000" />
-      <workItem from="1763261650686" duration="1866000" />
+      <workItem from="1763341205566" duration="325000" />
+      <workItem from="1763341765250" duration="13976000" />
+      <workItem from="1763362645402" duration="3000000" />
+      <workItem from="1763365949232" duration="1017000" />
+      <workItem from="1763367006186" duration="5403000" />
     </task>
     <servers />
   </component>
