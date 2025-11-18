@@ -10,8 +10,6 @@ const useApiFetcher = <T>(fetchFunction: () => Promise<T>, autoFetch = true) => 
             setLoading(true);
             setError(null);
             const result = await fetchFunction();
-
-            console.log("resultttt",result);
             setData(result);
 
         } catch (err) {

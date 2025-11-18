@@ -6,11 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="85d87a8b-1012-484a-a1eb-cbf1b17c83d7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(tabs)/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(tabs)/_layout.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/(tabs)/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(tabs)/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/tabIcon.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/TabIcon.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/MovieCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/MovieCard.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hooks/useApiFetcher.ts" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/useApiFetcher.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/api.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/services/api.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +83,7 @@
       <workItem from="1763362645402" duration="3000000" />
       <workItem from="1763365949232" duration="1017000" />
       <workItem from="1763367006186" duration="5403000" />
+      <workItem from="1763428171563" duration="3952000" />
     </task>
     <servers />
   </component>
